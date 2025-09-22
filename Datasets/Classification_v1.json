@@ -1,0 +1,426 @@
+[
+    {
+        "text": "The patient is experiencing chest pain that started 2 hours ago and is getting worse. They have a history of high blood pressure and are currently feeling short of breath.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been experiencing severe chest pain radiating to the back, accompanied by shortness of breath and a fever of 103\u00b0F. They have a history of hypertension and hyperlipidemia.",
+        "label": 2
+    },
+    {
+        "text": "The patient has a temperature of 39\u00b0C, is experiencing severe headache and nausea, but has no history of chronic conditions. The patient's symptoms started yesterday and have been worsening overnight.",
+        "label": 3
+    },
+    {
+        "text": "The patient is experiencing severe chest pain and shortness of breath. They have a history of hypertension and hyperlipidemia. The pain started 2 hours ago and is worsening.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been experiencing severe chest pain and shortness of breath for the past hour. Their blood pressure is elevated, and they have a history of cardiovascular disease.",
+        "label": 2
+    },
+    {
+        "text": "I'm experiencing severe chest pain and shortness of breath after a 5K run yesterday. I'm concerned about a potential heart issue, but my primary care physician said it's likely just a pulled muscle.",
+        "label": 3
+    },
+    {
+        "text": "Patient is scheduled for a routine physical examination to monitor blood pressure and check for any changes in medication regimen.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe abdominal pain that started 2 hours ago. They also have a fever of 102\u00b0F and a history of kidney stones.",
+        "label": 3
+    },
+    {
+        "text": "I'm experiencing severe abdominal pain and nausea after eating a meal that I think may have contained spoiled food. I'm vomiting and feel weak.",
+        "label": 3
+    },
+    {
+        "text": "The patient has a fever of 102\u00b0F, headache, and a sore throat. They have been experiencing these symptoms for the past two days. They have a history of allergies and take medication daily.",
+        "label": 3
+    },
+    {
+        "text": "The patient's blood pressure has dropped to 80/40 mmHg and their heart rate has increased to 120 beats per minute. They are experiencing severe chest pain and difficulty breathing. An ECG shows signs of a myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been scheduled for a chest X-ray to confirm the diagnosis of pneumonia. The procedure is set to take place on Friday at 2 PM.",
+        "label": 1
+    },
+    {
+        "text": "The patient's blood pressure is 220/140 mmHg, heart rate is 120 bpm, and oxygen saturation is 88% on room air. The patient is experiencing severe chest pain and shortness of breath.",
+        "label": 2
+    },
+    {
+        "text": "The patient's oxygen levels are critically low and they are experiencing severe respiratory distress. Their blood pressure is also dropping rapidly.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing severe chest pain, difficulty breathing, and a rapid heart rate after a 30-minute hike in high-altitude terrain.",
+        "label": 2
+    },
+    {
+        "text": "The patient's blood pressure is within the normal range, and their blood work results show no signs of infection. They have a scheduled appointment for a routine check-up in 2 weeks.",
+        "label": 0
+    },
+    {
+        "text": "The patient's upcoming colonoscopy is scheduled for next Thursday at 10:00 AM in the endoscopy department.",
+        "label": 1
+    },
+    {
+        "text": "The patient is scheduled to undergo an elective cholecystectomy procedure on Tuesday at 9:00 AM to remove a symptomatic gallbladder.",
+        "label": 1
+    },
+    {
+        "text": "The patient is experiencing severe abdominal pain, nausea, and vomiting after a recent gastrointestinal endoscopy. The pain is localized to the upper right quadrant of the abdomen and is worsening over time.",
+        "label": 3
+    },
+    {
+        "text": "The patient has been experiencing occasional dizziness and lightheadedness when standing up from a seated position, but these episodes are mild and do not last long. They also reported feeling a bit short of breath after climbing the stairs, but this too has been manageable.",
+        "label": 0
+    },
+    {
+        "text": "The patient's oxygen saturation has dropped to 85% and their heart rate is 120 beats per minute. They are experiencing severe chest pain and shortness of breath. The patient has a history of cardiac disease and is on medication for high blood pressure.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing severe abdominal pain and is vomiting frequently. They have a history of kidney stones and are complaining of a dull ache in their lower back. The pain has been worsening over the past 24 hours, and they are now unable to keep fluids down.",
+        "label": 3
+    },
+    {
+        "text": "The patient has been experiencing mild headaches and fatigue for the past week. They have been taking their medication as prescribed and their vital signs are stable. We will continue to monitor their condition and schedule a follow-up appointment in two weeks.",
+        "label": 0
+    },
+    {
+        "text": "The patient has a severe headache, has been vomiting for the past 8 hours, and has a temperature of 39.5\u00b0C. The doctor believes it might be a case of gastroenteritis, but wants to run some tests to confirm the diagnosis.",
+        "label": 3
+    },
+    {
+        "text": "A patient's MRI scan reveals a potential issue that requires further evaluation. An appointment has been scheduled with the radiologist to discuss the results and determine the best course of action.",
+        "label": 1
+    },
+    {
+        "text": "The patient has a moderate fever, headache, and body aches. They are experiencing some shortness of breath but can still walk around the room. They have a history of asthma and are taking medication as prescribed. However, their condition worsened overnight, and they are now experiencing chest tightness.",
+        "label": 3
+    },
+    {
+        "text": "The patient has been taking their medication as prescribed and has shown stable blood pressure readings over the past few months. They are scheduled for a routine follow-up appointment in 3 months to continue monitoring their condition.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing difficulty breathing, with a history of chronic asthma. They require immediate attention but are not in a life-threatening condition at this time.",
+        "label": 3
+    },
+    {
+        "text": "The patient has a severe allergic reaction with symptoms of difficulty breathing, rapid heartbeat, and hives. They are experiencing anaphylaxis and are at risk of airway obstruction.",
+        "label": 2
+    },
+    {
+        "text": "I'm experiencing severe chest pain and shortness of breath after a minor accident on my way home from work. I'm having trouble breathing and my heart is racing.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been taking their medication regularly and attending follow-up appointments as scheduled. They have not reported any significant changes in their condition or side effects.",
+        "label": 0
+    },
+    {
+        "text": "The patient has been experiencing occasional chest tightness and shortness of breath after engaging in strenuous physical activity for the past month. The symptoms are intermittent and have not been present at rest.",
+        "label": 3
+    },
+    {
+        "text": "The patient is scheduled for an elective coronary artery bypass grafting procedure on Thursday to relieve severe chest pain and improve cardiovascular function. The surgical team will also assess the patient's left ventricle and adjust the treatment plan accordingly.",
+        "label": 1
+    },
+    {
+        "text": "The patient experienced a sudden episode of severe chest pain, shortness of breath, and a rapid heartbeat while engaging in light physical activity. They have a history of hypertension but have been managing it effectively through medication.",
+        "label": 2
+    },
+    {
+        "text": "The patient's blood pressure is within normal limits, and their ECG is showing no signs of arrhythmia. They have a scheduled appointment with the cardiologist in 6 weeks for a routine check-up.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure is 220/120 mmHg, with a heart rate of 150 bpm, and a respiratory rate of 40 breaths per minute. They have a history of hypertension and are experiencing severe chest pain, shortness of breath, and dizziness.",
+        "label": 2
+    },
+    {
+        "text": "I've been experiencing severe chest pain and shortness of breath for the past hour. I'm worried it might be a heart attack. I'm seeing a doctor as soon as possible.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been receiving regular blood pressure checks for the past six months, and their current readings are within the normal range. They are also following a healthy diet and exercising regularly.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe respiratory distress, with an oxygen saturation level of 82% and a heart rate of 120 beats per minute. They have a history of chronic obstructive pulmonary disease (COPD) and are wheezing uncontrollably.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing severe chest pain and shortness of breath after a sudden cardiac arrest during a high-intensity workout.",
+        "label": 2
+    },
+    {
+        "text": "The patient's blood pressure has skyrocketed to 220/140 mmHg, and their heart rate is racing at 150 BPM. They are experiencing severe shortness of breath and chest pain.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been on medication for chronic hypertension for the past 5 years and has been monitoring their blood pressure regularly. They report no changes in their symptoms and their doctor has scheduled a follow-up appointment in 6 months.",
+        "label": 0
+    },
+    {
+        "text": "The patient is a 45-year-old male with a history of hypertension and hyperlipidemia. He presents with a blood pressure of 140/90 mmHg and a fasting lipid profile that is within normal limits. He is currently taking lisinopril and atorvastatin as prescribed by his primary care physician. He reports feeling well and has no new symptoms.",
+        "label": 0
+    },
+    {
+        "text": "The patient has a fever of 38.5 degrees Celsius and a cough for the past 3 days. They are experiencing mild shortness of breath but can still walk around without assistance.",
+        "label": 3
+    },
+    {
+        "text": "The patient has been experiencing mild symptoms of bronchitis, such as a persistent cough and mild shortness of breath. They have been monitoring their symptoms and have been taking over-the-counter medications as recommended. Their temperature has been normal, and their oxygen levels are within the normal range.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure has been stable at 120/80 mmHg for the past six months with regular exercise and a balanced diet.",
+        "label": 0
+    },
+    {
+        "text": "The patient has been experiencing a mild cough and a slight fever for the past two days, but their oxygen levels are within normal range and they are not experiencing any difficulty breathing. They are scheduled for a follow-up appointment in a week to monitor their progress.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure is being monitored regularly, and their ECG and blood work are within normal limits. They are scheduled for a follow-up appointment in 6 weeks.",
+        "label": 0
+    },
+    {
+        "text": "The patient is scheduled to undergo a laparoscopic cholecystectomy at 2 PM on Thursday to remove a gallbladder that has been causing recurrent episodes of biliary colic and elevated liver enzymes.",
+        "label": 1
+    },
+    {
+        "text": "The patient is scheduled for a routine check-up to monitor their blood pressure and adjust their medication as needed.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe chest pain, difficulty breathing, and a rapid heart rate. They are also showing signs of pale skin and sweating.",
+        "label": 2
+    },
+    {
+        "text": "A CT scan of the brain is scheduled for next Wednesday to investigate the cause of recent headaches and dizziness. The patient is advised to arrive at 9 am with an empty stomach.",
+        "label": 1
+    },
+    {
+        "text": "The surgeon plans to conduct a routine endoscopy on Thursday afternoon to investigate the patient's persistent abdominal pain. A biopsy will be taken if necessary.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood work shows stable levels of glucose and hemoglobin A1c within the target range. The doctor will continue to monitor the patient's condition with regular check-ups and adjust the medication plan as needed.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe chest pain radiating to the back, shortness of breath, and a rapid heart rate. The ECG shows signs of ST-segment elevation and the patient is hypotensive.",
+        "label": 2
+    },
+    {
+        "text": "Dr. Smith has scheduled a laparoscopic cholecystectomy for patient John Doe on August 12th to remove his gallbladder.",
+        "label": 1
+    },
+    {
+        "text": "The patient is undergoing a scheduled MRI scan to rule out a suspected case of meningitis, which was discovered after a routine physical examination revealed abnormal lumbar puncture results.",
+        "label": 1
+    },
+    {
+        "text": "The patient's blood pressure has been stable at 120/80 mmHg for the past 3 weeks, and their lipid profile is within normal limits. They are currently on a regular medication regimen and have shown no signs of any acute conditions.",
+        "label": 0
+    },
+    {
+        "text": "The patient is coming in for a scheduled check-up to monitor their blood pressure, which has been stable for the past few months.",
+        "label": 0
+    },
+    {
+        "text": "I'm experiencing severe chest pain and shortness of breath after a recent hike. My heart rate is elevated and I'm feeling extremely anxious. I've never had any heart problems before but I'm really scared.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been under observation for a month with no significant changes in their vital signs. They are experiencing mild fatigue, but their oxygen saturation levels remain within normal limits. The attending physician recommends a follow-up appointment in two weeks to reassess their condition.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure has been within normal limits for the past three months, and their last ECG showed a regular heart rhythm. They have been taking their prescribed medication as directed and have not experienced any symptoms of concern.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe chest pain that radiates to the back and shortness of breath. Her oxygen saturation is 88% on room air and she is diaphoretic.",
+        "label": 2
+    },
+    {
+        "text": "The patient has been experiencing severe stomach cramps and vomiting for the past 6 hours. They have also reported a fever of 102\u00b0F. The symptoms started after consuming contaminated food at a restaurant last night.",
+        "label": 3
+    },
+    {
+        "text": "The patient is experiencing severe shortness of breath, with a pulse rate of 120 beats per minute and a blood oxygen level of 85%. They also complain of chest pain and a sense of impending doom.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing severe abdominal pain and has been vomiting for the past 8 hours. They have a history of stomach ulcers and are currently taking medication to manage their symptoms. However, the pain has worsened and they are showing signs of dehydration.",
+        "label": 3
+    },
+    {
+        "text": "The patient has been experiencing chest pain and shortness of breath for the past hour. Their oxygen levels are low and their ECG is showing signs of ischemia. We need to get them to the hospital immediately for further evaluation and treatment.",
+        "label": 2
+    },
+    {
+        "text": "An MRI of the patient's knee will be performed on the 15th of August to assess the damage to the ligaments.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe chest pain radiating to the back, accompanied by shortness of breath and a rapid heartbeat.",
+        "label": 2
+    },
+    {
+        "text": "A consultation with the surgeon is scheduled for 2 weeks from now to discuss the upcoming total hip replacement surgery.",
+        "label": 1
+    },
+    {
+        "text": "The patient is scheduled for a biopsy on Friday to examine a suspicious lump on their lung.",
+        "label": 1
+    },
+    {
+        "text": "The patient is scheduled for a routine check-up with the primary care physician in six weeks to monitor their blood pressure and discuss any necessary adjustments to their medication regimen.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure has been within the normal range for the past 6 months and their last ECG showed no signs of arrhythmia. Their doctor has scheduled a routine check-up in 3 months.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure is 220/120 mmHg, heart rate is 150 bpm, and they are experiencing severe chest pain. ECG shows signs of a possible myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "The patient has a mild fever of 102\u00b0F, headache, and a recent travel history to an area with a high risk of Zika virus transmission. The patient is experiencing moderate symptoms but is otherwise stable.",
+        "label": 3
+    },
+    {
+        "text": "The patient has been on a stable dose of medication for chronic hypertension for the past 6 months and is due for a routine check-up to monitor their blood pressure and kidney function.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure has been stable at 120/80 mmHg for the past three months. They have been taking their medications as prescribed and attending regular follow-up appointments.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure is 220/140 mmHg, pulse is 120 beats per minute, and oxygen saturation is 88%.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing sudden and severe chest pain, shortness of breath, and a rapid heartbeat. Their blood pressure is extremely high and is not responding to treatment. They are also complaining of dizziness and lightheadedness.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing severe chest pain radiating to the back, accompanied by shortness of breath and a history of heart disease. An electrocardiogram (ECG) shows signs of a possible myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "I'm experiencing a severe headache and dizziness after a minor car accident, can I get an appointment today to get checked out?",
+        "label": 3
+    },
+    {
+        "text": "The patient is scheduled for a routine check-up with their primary care physician every 3 months to monitor their blood pressure and cholesterol levels.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure is within the normal range and their ECG is showing no signs of arrhythmia. They have been taking their medication regularly and have not reported any symptoms. Their next check-up is scheduled in 3 months.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe chest pain and difficulty breathing after a recent history of heart disease, and it is recommended that they are seen within the next 2 hours for further evaluation and treatment.",
+        "label": 3
+    },
+    {
+        "text": "The patient's blood work and vital signs are stable. The doctor is monitoring their condition and has scheduled a follow-up appointment in two weeks for further evaluation.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood work and vital signs are within normal limits, but we will continue to monitor their condition to ensure there are no signs of complications.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old patient with hypertension and hyperlipidemia is scheduled to undergo a coronary angiogram on August 10th to assess the blockage in the left anterior descending artery.",
+        "label": 1
+    },
+    {
+        "text": "The patient's doctor has informed them that they will undergo a surgical procedure to remove a tumor from their kidney, and the operation is scheduled for next Wednesday at 10:00 AM.",
+        "label": 1
+    },
+    {
+        "text": "The doctor has scheduled an MRI scan for next week to investigate the patient's persistent back pain. The patient will need to arrive 30 minutes prior to the scan and bring their identification and insurance cards.",
+        "label": 1
+    },
+    {
+        "text": "The patient is experiencing severe chest pain, difficulty breathing, and has a history of heart disease. The ECG shows ST-segment elevation.",
+        "label": 2
+    },
+    {
+        "text": "The patient is scheduled for an elective laparoscopic cholecystectomy on the 15th of August at 9:00 AM. The surgeon will remove the patient's gallbladder to alleviate symptoms of chronic cholecystitis.",
+        "label": 1
+    },
+    {
+        "text": "The patient has a history of hypertension and is currently taking medication to control their blood pressure. They are scheduled to have a check-up with their primary care physician in two weeks to review their progress.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe abdominal pain that started a few hours ago and is now radiating to their back. They have a fever of 102\u00b0F and have been vomiting for several hours.",
+        "label": 3
+    },
+    {
+        "text": "The patient's blood pressure is within the normal range, and their medication regimen is unchanged. The doctor will schedule a follow-up appointment in 6 months to reassess the patient's condition.",
+        "label": 0
+    },
+    {
+        "text": "A patient is booked for a hernia repair surgery on August 15th and will be under general anesthesia.",
+        "label": 1
+    },
+    {
+        "text": "The patient presents with a sudden onset of severe headache, nausea, and dizziness after a minor car accident. The patient is stable and alert but reports worsening symptoms over the past hour.",
+        "label": 3
+    },
+    {
+        "text": "The patient's blood pressure has been stable at 120/80 mmHg for the past three months, and their glucose levels have been within normal limits during regular monitoring.",
+        "label": 0
+    },
+    {
+        "text": "The patient is experiencing severe chest pain, difficulty breathing, and a racing heartbeat. Their oxygen levels are critically low, and they are showing signs of cyanosis. They are becoming increasingly agitated and disoriented.",
+        "label": 2
+    },
+    {
+        "text": "The patient is scheduled for a routine check-up with the doctor every 3 months to monitor their blood pressure and ensure it remains within a healthy range.",
+        "label": 0
+    },
+    {
+        "text": "The patient's blood pressure has been steadily within a normal range over the past year, with the most recent reading being 120/80 mmHg. They have been taking their medication as prescribed and adhering to a healthy diet.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old woman visits her primary care physician for an annual wellness check-up. She has no complaints and no significant medical history. Her vitals are normal, and routine lab tests, including a CBC and lipid profile, are ordered as part of preventive care. She is advised to continue her healthy lifestyle and return in a year for follow-up.",
+        "label": 0
+    },
+    {
+        "text": "A 60-year-old man with a history of hypertension visits his doctor for a routine follow-up. He reports no new symptoms and is adherent to his medication (amlodipine 10 mg daily). His blood pressure is well-controlled at 125/80 mmHg, and lab tests, including renal function and electrolytes, are normal. The physician advises continuing the current medication and scheduling the next visit in 6 months.",
+        "label": 0
+    },
+    {
+        "text": "A 50-year-old man with type 2 diabetes visits for routine care. He reports no new symptoms and is compliant with his diet, exercise, and metformin 500 mg twice daily. His recent HbA1c is 6.8%, and there are no signs of complications on physical examination. He is advised to continue his regimen and return in 3 months for monitoring.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old man with a history of a non-painful inguinal hernia for the past 6 months visits his primary care physician. He reports occasional mild discomfort with heavy lifting but no acute pain or bowel obstruction. Physical examination confirms the presence of a reducible hernia. Given the risk of future complications, elective hernia repair surgery is scheduled.",
+        "label": 1
+    },
+    {
+        "text": "A 68-year-old woman presents with complaints of blurry vision, especially while reading and driving at night, over the past year. She has a history of gradual vision deterioration and difficulty with glare. Slit-lamp examination reveals significant cataract formation in both eyes. After discussing the options, the patient is scheduled for cataract surgery to restore her vision, with no signs of acute complications.",
+        "label": 1
+    },
+    {
+        "text": "A 72-year-old woman with a 10-year history of osteoarthritis in her right knee presents for evaluation of chronic pain and decreased mobility. She has tried physical therapy, corticosteroid injections, and pain medications with minimal relief. X-rays show severe joint degeneration with bone-on-bone contact. After a thorough discussion, she is scheduled for elective right total knee replacement surgery to improve function and quality of life.",
+        "label": 1
+    }
+]

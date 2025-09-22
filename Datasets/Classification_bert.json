@@ -1,0 +1,402 @@
+[
+    {
+        "text": "The patient presented with a severe case of tachyarrhythmia, with a heart rate of 160 beats per minute, and was experiencing shortness of breath and chest pain. The patient's medical history revealed a previous myocardial infarction and hypertension. Upon examination, the patient's blood pressure was found to be 180/100 mmHg, and the electrocardiogram showed signs of atrial fibrillation.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old male presents with a 2-week history of intermittent headaches and occasional blurred vision. His blood pressure is 140/90 mmHg, and his pulse is 72 bpm. He reports no fever, chills, or recent travel. His past medical history is significant for hypertension, which has been well-controlled on medication. What is the most appropriate next step in his management?",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old male patient presents with a 3-day history of progressive dyspnea, orthopnea, and peripheral edema. The patient has a past medical history of hypertension, hyperlipidemia, and type 2 diabetes mellitus. His medications include lisinopril, atorvastatin, and metformin. The patient's vitals are: blood pressure 160/90 mmHg, pulse 110 bpm, respiratory rate 22 breaths/min, and oxygen saturation 88% on room air. Physical examination reveals bilateral pitting edema, crackles at the lung bases, and a new holosystolic murmur at the left sternal border.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old male patient presents with a 2-day history of fever, cough, and shortness of breath. His oxygen saturation is 92% on room air. He has a history of hypertension and hyperlipidemia. Physical examination reveals bilateral fine crackles and wheezing sounds. He is afebrile at the time of presentation. ",
+        "label": 3
+    },
+    {
+        "text": "A 35-year-old female patient presents with a 2-year history of hypertension, currently under management with lisinopril 10mg daily, and a recent blood pressure reading of 145/95 mmHg. She also reports a 10-pack-year smoking history and a family history of cardiovascular disease. Physical examination reveals a blood pressure of 140/90 mmHg, and a regular ECG. The patient's symptoms are stable, and she denies any chest pain or shortness of breath.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old female patient presents with a history of hypertension and hyperlipidemia, complaining of intermittent chest pain during periods of physical exertion. Her electrocardiogram shows ST-segment depression in leads II, III, and aVF, and her echocardiogram reveals a left ventricular ejection fraction of 50%. She has a family history of coronary artery disease and smokes 10 cigarettes per day.",
+        "label": 3
+    },
+    {
+        "text": "A 65-year-old male patient presents with a 2-day history of worsening shortness of breath and a recent chest X-ray showing bilateral interstitial infiltrates. He has a history of hypertension and hyperlipidemia and is on medication for these conditions.",
+        "label": 2
+    },
+    {
+        "text": "A 55-year-old male patient, who has been experiencing progressive shortness of breath and fatigue over the past 3 months, presents to the emergency department for further evaluation. His medical history includes hypertension and hyperlipidemia, for which he is on regular medication. The patient's symptoms worsen with exertion and improve with rest, with a noticeable decrease in his exercise tolerance. He denies any chest pain or palpitations.",
+        "label": 2
+    },
+    {
+        "text": "A 55-year-old male patient presents with a history of hypertension and hyperlipidemia, complaining of occasional chest discomfort and shortness of breath during moderate exercise. His electrocardiogram reveals non-specific ST-segment changes, and his troponin levels are mildly elevated.",
+        "label": 3
+    },
+    {
+        "text": "A 35-year-old male patient with a history of hypertension and hyperlipidemia presents with symptoms of dizziness and fatigue after experiencing a 72-hour period of non-restorative sleep.",
+        "label": 0
+    },
+    {
+        "text": "The patient's chief complaint is a 3-month history of progressive dyspnea on exertion, with a recent exacerbation following a 10-pound weight gain over the past fortnight.",
+        "label": 3
+    },
+    {
+        "text": "A 35-year-old male patient with a history of hypertension and hyperlipidemia presents to the clinic with symptoms of shortness of breath and fatigue after moderate exercise. His physical examination reveals a blood pressure of 140/90 mmHg and a heart rate of 80 bpm. ECG shows a normal sinus rhythm, and echocardiogram reveals normal left ventricular function. The patient's symptoms are managed with lifestyle modifications and medication adjustments.",
+        "label": 0
+    },
+    {
+        "text": "The patient is a 45-year-old male with a history of hypertension and hyperlipidemia. He is scheduled for a bilateral carotid endarterectomy due to asymptomatic carotid artery stenosis.",
+        "label": 1
+    },
+    {
+        "text": "The patient, a 35-year-old female, presented with a 6-month history of pelvic pain and dysmenorrhea. She had undergone multiple laparoscopic surgeries in the past, including a laparoscopic hysterectomy, but continued to experience chronic pain. Recent imaging studies revealed a possible ureteral obstruction, prompting further investigation.",
+        "label": 3
+    },
+    {
+        "text": "The patient is a 35-year-old female presenting with a history of seasonal allergies and a current complaint of mild nasal congestion. She has been experiencing occasional sneezing and runny nose for the past 3 days. Physical examination reveals a moderate amount of nasal discharge and a slight increase in nasal mucosa.",
+        "label": 0
+    },
+    {
+        "text": "A 62-year-old male patient presents with a 2-week history of progressively worsening dyspnea, orthopnea, and paroxysmal nocturnal dyspnea, accompanied by a 10-pound weight gain in 1 week. His past medical history is significant for hypertension, hyperlipidemia, and a myocardial infarction 5 years ago. His current medication regimen includes lisinopril, atorvastatin, and aspirin. The patient's physical examination reveals bilateral pitting edema, a 3+ S3 gallop, and a grade 3/6 holosystolic murmur at the apex.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old woman with a history of asthma presents to the emergency department with acute shortness of breath, wheezing, and a pulse oximeter reading of 88% on room air. Her peak expiratory flow rate is 200 liters per minute, and she has a history of multiple hospitalizations for respiratory exacerbations.",
+        "label": 2
+    },
+    {
+        "text": "The patient presented with a 2-week history of intermittent, non-radiating lower back pain, exacerbated by prolonged periods of sitting and relieved by standing. Physical examination revealed a mildly tender lumbar spine with no neurological deficits.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old male with a history of hypertension and hyperlipidemia presents to the emergency department with a 3-day history of worsening dyspnea and fatigue. His electrocardiogram reveals evidence of ST-segment depression in the anterior leads, but his troponin levels are within normal limits. What is the most appropriate next step in management?",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old male presents with severe chest pain radiating to his left arm, shortness of breath, and a history of hypertension. His electrocardiogram shows ST-segment elevation in multiple leads, indicating an acute myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old female patient presented with severe abdominal pain and vomiting after consuming a large quantity of spoiled food. She has a history of gallstones and is experiencing a high fever. The patient's vital signs are unstable, with a heart rate of 120 bpm and blood pressure of 80/50 mmHg. An immediate surgical consultation is required to rule out a possible perforated appendix or other life-threatening complications.",
+        "label": 2
+    },
+    {
+        "text": "A 62-year-old female patient with a history of hypertension and hyperlipidemia presents to the clinic with a complaint of mild dyspnea on exertion and a slight increase in orthostatic blood pressure. Physical examination reveals a systolic ejection murmur, and laboratory tests show elevated troponin levels.",
+        "label": 3
+    },
+    {
+        "text": "A 45-year-old male patient presents with sudden onset of severe retrosternal chest pain radiating to the back, accompanied by shortness of breath and a decreased oxygen saturation level. His medical history includes hypertension and hyperlipidemia. He is currently on beta blockers and statins.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old patient with a history of hypertension and hyperlipidemia is scheduled for a bilateral carotid endarterectomy tomorrow morning to prevent stroke and improve cerebral blood flow. The patient's blood work and imaging studies are stable, and the surgical team has reviewed the case and is ready to proceed.",
+        "label": 1
+    },
+    {
+        "text": "The patient, a 35-year-old female, presented with a 2-week history of intermittent pelvic pain and dysuria. She has a history of recurrent urinary tract infections and has been taking trimethoprim-sulfamethoxazole for the past 6 months. Her physical examination reveals a tender cervix and bilateral lower quadrant tenderness. A urinalysis shows 10-15 WBCs/hpf. What is the most appropriate next step in her management?",
+        "label": 3
+    },
+    {
+        "text": "A 65-year-old female patient presents with a history of hypertension, hyperlipidemia, and chronic kidney disease, experiencing worsening shortness of breath and edema over the past week.",
+        "label": 3
+    },
+    {
+        "text": "The patient is scheduled to undergo an elective trachelectomy to remove a benign cervical tumor that has been causing symptoms of dysphonia and dysphagia. Post-operatively, the patient will require close monitoring for potential complications such as bleeding and infection.",
+        "label": 1
+    },
+    {
+        "text": "A 35-year-old female patient presents with a 2-week history of gradually worsening dyspnea, orthopnea, and bilateral pitting edema. Her medical history is significant for hypertension and type 2 diabetes mellitus. She denies any recent travel or exposure to infectious diseases.",
+        "label": 3
+    },
+    {
+        "text": "A 62-year-old female patient presents with severe chest pain radiating to her left arm and shortness of breath, accompanied by a history of hypertension and hyperlipidemia. Her electrocardiogram reveals ST-segment elevations in leads II, III, and aVF. Given the patient's symptoms and test results, immediate hospitalization and cardiac catheterization are required.",
+        "label": 2
+    },
+    {
+        "text": "The patient presents with a 24-hour history of worsening dyspnea, fatigue, and bilateral lower extremity edema. The patient's oxygen saturation is 88% on room air, with a heart rate of 120 beats per minute and a blood pressure of 160/90 mmHg.",
+        "label": 2
+    },
+    {
+        "text": "A 62-year-old male patient is scheduled to undergo a laparoscopic cholecystectomy on Thursday at 9:00 AM to remove a gallbladder with chronic inflammation, which has resulted in recurring biliary colic. The patient has been experiencing severe abdominal pain and nausea for the past three days, with no signs of jaundice or fever. He has a history of hypertension and hyperlipidemia, but his liver function tests are within normal limits. The patient is scheduled for general anesthesia and will be admitted to the post-anesthesia care unit for 2 hours post-operatively.",
+        "label": 1
+    },
+    {
+        "text": "A 45-year-old male patient is scheduled for an elective left knee arthroscopy with the attending orthopedic surgeon to investigate chronic knee pain and instability, which has been exacerbated by a recent fall.",
+        "label": 1
+    },
+    {
+        "text": "A 35-year-old male presents with a severe headache and fever of 104\u00b0F, accompanied by photophobia and neck stiffness, which have been worsening over the past 24 hours. He has a history of hypertension and is a smoker. His white blood cell count is elevated, and his CT scan reveals signs of meningitis.",
+        "label": 2
+    },
+    {
+        "text": "A 65-year-old male presents with a 2-week history of progressive dyspnea and orthopnea, with a recent exacerbation following a 10-pound weight gain over the past fortnight. His medical history is notable for hypertension, hyperlipidemia, and a remote myocardial infarction. Physical examination reveals a blood pressure of 160/100 mmHg, with bibasilar rales and a displaced apical pulse.",
+        "label": 2
+    },
+    {
+        "text": "A 72-year-old male patient is scheduled for a prophylactic cholecystectomy due to the presence of multiple gallstones, which have been asymptomatic for several years. The patient has a history of hypertension and hyperlipidemia, and is scheduled for a pre-operative consultation with the anesthesiologist.",
+        "label": 1
+    },
+    {
+        "text": "The patient presents with a history of hypertension, dyslipidemia, and obesity. The patient's blood pressure is 140/90 mmHg, and their fasting glucose is 110 mg/dL. They have been experiencing fatigue and shortness of breath on exertion. The patient is a 55-year-old male with a 10-pack-year smoking history.",
+        "label": 0
+    },
+    {
+        "text": "The patient presented with a severe headache, fever, and confusion, which are symptoms commonly associated with meningitis. The patient's family history of autoimmune disorders and recent travel to an endemic area further increases the risk of bacterial meningitis.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old male presents with symptoms of mild asthma, occasional wheezing, and shortness of breath upon exertion. He reports no recent hospitalizations or severe episodes and is currently on a preventative medication regimen. His vital signs are within normal limits, and a recent pulmonary function test indicates mild airflow limitation.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old male patient presents with a 2-day history of worsening chest pain, shortness of breath, and a recent episode of palpitations. His blood pressure is 180/100 mmHg, heart rate is 120 beats per minute, and oxygen saturation is 88% on room air. He has a history of hypertension and hyperlipidemia. The patient's electrocardiogram shows evidence of ST-segment elevation.",
+        "label": 2
+    },
+    {
+        "text": "A 65-year-old male patient presents with a history of hypertension and presents to the emergency department with sudden onset of severe left-sided chest pain radiating to the left arm, lasting for 30 minutes. His electrocardiogram shows signs of ST-elevation myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old female patient presents with a 2-week history of progressive dyspnea and a recent episode of syncope. Her medical history includes hypertension and hyperlipidemia. The patient's vital signs are within normal limits. An electrocardiogram reveals a left ventricular hypertrophy. Which level of care is required?",
+        "label": 3
+    },
+    {
+        "text": "A 45-year-old male patient presented with a 2-day history of dyspnea, orthopnea, and paroxysmal nocturnal dyspnea, with a recent exacerbation of his chronic obstructive pulmonary disease (COPD) requiring admission to the intensive care unit (ICU). His oxygen saturation is at 88% on room air, with a respiratory rate of 32 breaths per minute and a systolic blood pressure of 120 mmHg.",
+        "label": 2
+    },
+    {
+        "text": "A 72-year-old patient is scheduled for a quadruple bypass grafting procedure to alleviate severe angina symptoms and is set to undergo the surgery in 3 days.",
+        "label": 1
+    },
+    {
+        "text": "A 45-year-old male patient presents with a 2-week history of progressive dyspnea and orthopnea, with a recent exacerbation requiring hospital admission. He has a history of hypertension and hyperlipidemia, for which he is currently non-adherent. Physical examination reveals bilateral crackles and an S3 heart sound. His electrocardiogram shows signs of left ventricular hypertrophy. The patient's echocardiogram demonstrates a left ventricular ejection fraction of 35%.",
+        "label": 2
+    },
+    {
+        "text": "The patient's MRI scan indicates a potential case of disc herniation at L4-L5, which may necessitate an emergency spinal decompression surgery to prevent long-term neurological damage.",
+        "label": 2
+    },
+    {
+        "text": "The patient presented with a 5-day history of progressively worsening dyspnea, orthopnea, and a productive cough. The vital signs showed a blood pressure of 120/80 mmHg, a heart rate of 110 beats per minute, and a respiratory rate of 28 breaths per minute. The patient's oxygen saturation was 88% on room air. A chest X-ray revealed bilateral infiltrates consistent with pulmonary edema.",
+        "label": 2
+    },
+    {
+        "text": "The 62-year-old patient presented with a 2-day history of worsening fatigue, accompanied by a slight increase in respiratory rate and a moderate decrease in oxygen saturation levels. Initial blood work revealed mildly elevated liver enzymes and a slightly decreased white blood cell count. Chest X-ray results showed diffuse interstitial markings consistent with pulmonary edema.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old female patient is scheduled for elective bilateral mastectomy and immediate reconstruction with a tissue expander, to be performed under general anesthesia with possible conversion to open surgery. The procedure is anticipated to last approximately 6 hours, with a 30-minute break for skin closure.",
+        "label": 1
+    },
+    {
+        "text": "A 45-year-old male patient with a history of hypertension and hyperlipidemia presents to the clinic for a routine check-up. His blood pressure is within normal limits, and his lipid profile is slightly elevated but well-controlled on his current medication regimen. He reports no recent changes in his diet or exercise habits.",
+        "label": 0
+    },
+    {
+        "text": "The patient is a 35-year-old woman presenting with a 2-week history of intermittent, non-radiating, left-sided abdominal pain, exacerbated by deep breathing and exacerbated by coughing. She denies any weight loss, fever, or changes in bowel habits.",
+        "label": 0
+    },
+    {
+        "text": "A 65-year-old patient with a history of hypertension and hyperlipidemia is scheduled for a coronary artery bypass grafting (CABG) surgery to alleviate symptoms of angina and prevent further cardiac events.",
+        "label": 1
+    },
+    {
+        "text": "A 65-year-old female patient with a history of hypertension and hyperlipidemia presents to the clinic for a routine check-up. Her blood pressure is 130/80 mmHg and her lipid profile shows total cholesterol of 180 mg/dL and LDL of 100 mg/dL. She is on atorvastatin 20 mg daily and lisinopril 10 mg daily. She reports no symptoms and is generally feeling well. What is the most appropriate course of action for this patient?",
+        "label": 0
+    },
+    {
+        "text": "The patient presents with a 6-month history of fatigue, weight loss, and night sweats, prompting a comprehensive workup for potential malignancy, including a CT scan and biopsy of a suspicious lymph node.",
+        "label": 3
+    },
+    {
+        "text": "The patient is scheduled for a prophylactic mastectomy to reduce the risk of breast cancer, following a strong family history of BRCA1 mutations.",
+        "label": 1
+    },
+    {
+        "text": "A 72-year-old male patient with a history of hypertension and hyperlipidemia presents with a 2-day history of sudden onset of severe chest pain radiating to the back, accompanied by shortness of breath and diaphoresis. His blood pressure is 180/100 mmHg, heart rate is 120 beats per minute, and oxygen saturation is 92% on room air.",
+        "label": 2
+    },
+    {
+        "text": "A 42-year-old male patient with a history of hypertension presents to the clinic with complaints of episodic dizziness and fainting spells. His blood pressure readings have been stable over the past few months, but he reports feeling lightheaded upon standing from a seated position. Physical examination reveals a mildly elevated pulse rate and a systolic blood pressure of 140 mmHg. The patient's medical history also includes a past myocardial infarction, for which he underwent successful angioplasty and stenting.",
+        "label": 3
+    },
+    {
+        "text": "A 72-year-old male patient presents with acute onset of dyspnea, chest tightness, and palpitations after a 5-mile run. His vital signs are: heart rate 120 bpm, respiratory rate 28 breaths/min, oxygen saturation 88% on room air, and blood pressure 180/100 mmHg. His medical history includes hypertension, hyperlipidemia, and a previous myocardial infarction. He is taking metoprolol and atorvastatin.",
+        "label": 2
+    },
+    {
+        "text": "A 65-year-old male patient presents with a history of chronic obstructive pulmonary disease (COPD) and is experiencing worsening shortness of breath, requiring repeated hospitalizations in the past 6 months. He has a significant smoking history and has been non-adherent to his medication regimen.",
+        "label": 3
+    },
+    {
+        "text": "The patient is scheduled for a routine endoscopy procedure to investigate potential gastritis, and the surgeon has indicated that there is a high probability of identifying a chronic stomach lining disorder, which will necessitate further diagnostic testing and possible long-term medication therapy.",
+        "label": 1
+    },
+    {
+        "text": "The patient, a 35-year-old male, was seen in our clinic with a chief complaint of progressive dyspnea on exertion over the past 6 weeks, accompanied by a noticeable decrease in stamina and a slight dry cough. His past medical history is significant for hypertension, for which he has been on amlodipine therapy for the past 5 years. His current medications include lisinopril and atorvastatin. On physical examination, his blood pressure was found to be 145/95 mmHg, and his oxygen saturation was 92% on room air. He has a body mass index of 28.5 kg/m^2 and is a non-smoker. His ECG showed a left ventricular hypertrophy pattern, and his echocardiogram revealed a mildly reduced left ventricular ejection fraction of 45%. His laboratory results include a serum creatinine of 1.3 mg/dL and a hemoglobin A1c of 6.2%. What is the most appropriate course of action for this patient?",
+        "label": 0
+    },
+    {
+        "text": "The patient, a 45-year-old male, presents with a history of hypertension and hyperlipidemia. His blood pressure is 140/90 mmHg and his lipid profile reveals elevated LDL levels. He reports no symptoms and has been taking his prescribed medications as directed.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old male patient with a history of hypertension and hyperlipidemia presents to the clinic with complaints of intermittent chest pain and shortness of breath. The patient reports that the chest pain is exacerbated by physical activity and is relieved by rest. The patient's vital signs include a blood pressure of 160/90 mmHg and a pulse rate of 80 beats per minute. The patient's electrocardiogram shows ST-segment depression in leads II, III, and aVF. The patient's laboratory results include a troponin level of 0.05 ng/mL and a creatine kinase level of 120 IU/L.",
+        "label": 2
+    },
+    {
+        "text": "A 32-year-old male patient presents with severe chest pain radiating to the jaw and left arm, accompanied by shortness of breath and a slight fever. His electrocardiogram reveals ST-segment elevation in leads II, III, and aVF, indicative of an acute myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "The patient is scheduled for a laparoscopic cholecystectomy on Friday at 9:00 AM to remove a gallbladder that has been causing recurring pancreatitis and nausea. The patient has been experiencing symptoms for several months, and the results of the imaging studies confirm the presence of a gallstone causing the obstruction. The patient's medical history includes hypertension and hyperlipidemia, but they are well-controlled on current medications.",
+        "label": 1
+    },
+    {
+        "text": "A 42-year-old female patient presented with a 3-month history of intermittent pelvic pain and dyspareunia, with no fever, weight loss, or vaginal discharge. Her last menstrual period was 2 weeks prior to the onset of symptoms. The patient reports a history of a uterine fibroid diagnosed 5 years ago, for which she underwent a myomectomy. Physical examination reveals a tender cervix, but no masses or tenderness on palpation of the abdomen.",
+        "label": 0
+    },
+    {
+        "text": "The patient, a 45-year-old female, presents with a history of hypertension and hyperlipidemia, with a current blood pressure reading of 160/100 mmHg and a LDL cholesterol level of 180 mg/dL. She is scheduled for an elective coronary artery bypass grafting procedure to address her left main coronary artery stenosis, which has been confirmed by recent coronary angiography.",
+        "label": 1
+    },
+    {
+        "text": "A 35-year-old male patient is presenting with a history of intermittent chest pain exacerbated by physical activity and relieved by rest. His ECG reveals ST-segment depressions in multiple leads. The patient's lipid profile shows elevated total cholesterol and LDL levels. He is otherwise asymptomatic and has no history of cardiovascular disease. What is the next step in managing this patient's condition?",
+        "label": 3
+    },
+    {
+        "text": "The patient presented with a 2-day history of worsening dyspnea, orthopnea, and bilateral lower extremity edema, prompting an echocardiogram that revealed an ejection fraction of 25%.",
+        "label": 2
+    },
+    {
+        "text": "A 55-year-old male patient with a history of hypertension and hyperlipidemia presents with a new-onset atrial fibrillation and a left ventricular ejection fraction of 40%. He is scheduled for a cardioversion procedure to restore a normal sinus rhythm and improve cardiac function.",
+        "label": 1
+    },
+    {
+        "text": "The patient is a 45-year-old female with a history of hypertension and hyperlipidemia, scheduled to undergo a cardiac catheterization procedure next Wednesday to evaluate the severity of her coronary artery disease. She will require overnight hospitalization and monitoring post-procedure.",
+        "label": 1
+    },
+    {
+        "text": "A 35-year-old male patient presents with a severe headache, photophobia, and fever. He has a history of migraines, but the current episode is more severe than usual. The patient's temperature is 102.5\u00b0F (39\u00b0C), and his blood pressure is elevated at 160/100 mmHg. He reports a 2-day history of worsening symptoms, and his last migraine episode was 3 months ago. He is not on any prophylactic medication. What is the appropriate level of care for this patient?",
+        "label": 2
+    },
+    {
+        "text": "The patient presented with a 2-day history of progressive dyspnea, orthopnea, and bilateral lower extremity edema, with a recent history of pneumonia and congestive heart failure exacerbation.",
+        "label": 2
+    },
+    {
+        "text": "The patient presented with a 3-day history of intermittent epigastric pain and a self-reported weight loss of 10 kg over the past 6 weeks. Physical examination revealed a palpable mass in the right upper quadrant and a mild fever. Laboratory results showed elevated liver enzymes and a slightly elevated CA 19-9 tumor marker.",
+        "label": 3
+    },
+    {
+        "text": "A 35-year-old male patient, a non-smoker with a family history of hypertension, presented with elevated blood pressure (BP) readings of 145/95 mmHg during a routine annual check-up. He had no prior history of cardiovascular disease, but his mother had been diagnosed with hypertension at the age of 40.",
+        "label": 0
+    },
+    {
+        "text": "The patient is scheduled for a laparoscopic cholecystectomy on Friday at 9:00 AM. The procedure is elective and has been planned for several weeks. The patient has been informed of the risks and benefits and has given her consent.",
+        "label": 1
+    },
+    {
+        "text": "A 65-year-old male patient is experiencing acute shortness of breath, chest pain, and a productive cough, with a history of hypertension and hyperlipidemia. His oxygen saturation is 88% on room air, and his blood pressure is 160/90 mmHg. He is afebrile and has a mild tachycardia of 110 beats per minute. A stat chest X-ray reveals a 5 cm wedge-shaped infiltrate in the right middle lobe of the lung, and a stat ECG shows ST-segment elevation in leads II, III, and aVF.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old male patient with a history of hypertension and hyperlipidemia presents with intermittent angina and a 2-week history of progressive shortness of breath. His ECG shows ST-segment depression in leads II, III, and aVF, and his troponin levels are mildly elevated.",
+        "label": 2
+    },
+    {
+        "text": "The patient is experiencing sudden onset of severe headache, fever, and nausea, and has a history of migraines and recent travel to an area endemic for viral encephalitis.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old male presents with severe chest pain radiating to the left arm, occurring at rest, and lasting for more than 30 minutes. The patient has a history of hypertension and hyperlipidemia. His electrocardiogram (ECG) shows ST-segment elevation in leads V2-V5, indicating an acute myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "The patient is a 45-year-old male presenting with a 3-day history of intermittent abdominal pain, nausea, and a low-grade fever. His past medical history includes hypertension and hyperlipidemia. He is currently on lisinopril and atorvastatin. His vital signs are: blood pressure 140/90 mmHg, heart rate 110 bpm, respiratory rate 22 breaths/min, and oxygen saturation 94% on room air.",
+        "label": 3
+    },
+    {
+        "text": "A 45-year-old male patient, a long-standing asthmatic with a history of recurrent hospitalizations, has been prescribed a novel corticosteroid inhaler for his chronic obstructive pulmonary disease (COPD) exacerbations. Following a recent hospital admission for a severe asthma attack, the patient is scheduled to undergo pulmonary function testing to assess the efficacy of his current treatment regimen.",
+        "label": 1
+    },
+    {
+        "text": "A 32-year-old female patient presents with intermittent episodes of mild to moderate dyspnea and fatigue, which have been worsening over the past three months. Her past medical history is significant for hypertension and hyperlipidemia, for which she is on regular medication. She reports a 10-pound weight loss over the same period, and her appetite has decreased. Physical examination reveals bilateral fine crackles at the lung bases, and her oxygen saturation is 92% on room air. ECG and chest X-ray are unremarkable. What is the most appropriate next step in management?",
+        "label": 0
+    },
+    {
+        "text": "The patient, a 45-year-old female, is scheduled for a routine hysterectomy due to uterine fibroids. The surgical team has confirmed that the procedure will be performed under general anesthesia, and the patient's vital signs will be closely monitored throughout the operation.",
+        "label": 1
+    },
+    {
+        "text": "A 45-year-old woman presents with a 3-day history of severe chest pain radiating to her back, shortness of breath, and a temperature of 38.5\u00b0C. Her electrocardiogram shows ST-segment elevations in leads V2-V4. Laboratory results indicate elevated troponin levels, and her ECG shows signs of ischemia. The patient is on aspirin, sublingual nitroglycerin, and oxygen.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old female patient presents with episodic migraines and a recent exacerbation of symptoms after a viral upper respiratory tract infection. Her neurological examination reveals a positive family history of migraines but no focal neurological deficits. She is prescribed a medication that necessitates regular monitoring of her liver function and kidney function.",
+        "label": 0
+    },
+    {
+        "text": "The patient is undergoing a planned thoracotomy to repair a congenital diaphragmatic hernia that was discovered during an unrelated MRI scan.",
+        "label": 1
+    },
+    {
+        "text": "The patient is a 45-year-old male presenting with a history of hypertension and mild left ventricular hypertrophy. He has been experiencing occasional chest pain during physical activity. His blood pressure readings have been within normal limits over the past year, and his echocardiogram shows no signs of significant cardiac dysfunction. What is the most appropriate course of action for this patient?",
+        "label": 0
+    },
+    {
+        "text": "The patient's X-ray revealed a calcified mass in the left adrenal gland, likely a benign adrenal adenoma, and a computed tomography scan showed no evidence of metastasis or invasion of the surrounding tissues.",
+        "label": 0
+    },
+    {
+        "text": "A 45-year-old male patient presents with symptoms of intermittent claudication, calf pain, and diminished femoral pulses. He has a history of smoking and hypertension. The patient's ECG shows nonspecific ST-segment changes. A non-invasive vascular study reveals decreased ankle-brachial index.",
+        "label": 3
+    },
+    {
+        "text": "A 62-year-old male patient presents with a chief complaint of severe epigastric pain radiating to the back, accompanied by nausea and vomiting. He has a history of peptic ulcer disease and has been experiencing symptoms for the past 24 hours. His vital signs include a pulse of 120 bpm and blood pressure of 90/60 mmHg. The patient's laboratory results reveal an elevated white blood cell count and mild dehydration.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old male patient is scheduled for a follow-up appointment to monitor his chronic kidney disease, for which he has been receiving dialysis treatment three times a week. His blood pressure and creatinine levels have been stable over the past few months, and he reports no new symptoms.",
+        "label": 1
+    },
+    {
+        "text": "A 35-year-old male patient presents with acute onset of left-sided weakness, including facial drooping and difficulty speaking in complete sentences, which he attributes to a recent motor vehicle accident. He has no prior medical history, but his mother has been diagnosed with a rare genetic disorder affecting the nervous system.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old female patient presents with a 2-week history of worsening dyspnea, orthopnea, and bilateral lower extremity edema. Physical examination reveals jugular venous distension, a new S3 gallop, and 3+ pitting edema. Her medical history is notable for hypertension, type 2 diabetes, and a previous myocardial infarction.",
+        "label": 2
+    },
+    {
+        "text": "A 35-year-old woman presents with a 6-month history of episodic pain and stiffness in her right wrist, particularly after repetitive gripping activities. Her symptoms worsen during periods of high humidity and improve with the use of topical corticosteroids. Physical examination reveals tenderness to palpation over the scaphoid tubercle, but no swelling or erythema. Her medical history is notable for hypertension and hyperlipidemia, for which she takes amlodipine and atorvastatin, respectively. She reports no recent travel or exposure to animals.",
+        "label": 0
+    },
+    {
+        "text": "The 62-year-old male patient presents with a 2-year history of hypertension, with a blood pressure reading of 140/90 mmHg. He has not experienced any symptoms of cardiovascular disease and has a body mass index of 25. His physical examination is unremarkable, and his renal function is within normal limits.",
+        "label": 0
+    },
+    {
+        "text": "A 35-year-old patient with a history of hypertension presents to the emergency department with acute onset of severe headaches, dizziness, and visual disturbances. Her blood pressure is elevated at 180/100 mmHg, and her physical examination reveals bilateral retinopathy.",
+        "label": 2
+    },
+    {
+        "text": "The patient presents with a 2-day history of progressive shortness of breath, worsening over the past 6 hours, accompanied by a non-productive cough and a fever of 38.5\u00b0C. The patient's respiratory rate is elevated at 28 breaths per minute, with a blood oxygen saturation of 88% on room air. The patient's medical history is significant for hypertension, hyperlipidemia, and a 10-year history of smoking. The patient's ECG shows a normal sinus rhythm with a left bundle branch block.",
+        "label": 2
+    },
+    {
+        "text": "A 55-year-old male patient with a history of hypertension and chronic kidney disease is scheduled to undergo a laparoscopic nephrectomy due to a 7-cm left renal mass with evidence of fatty infiltration on imaging studies.",
+        "label": 1
+    },
+    {
+        "text": "A 45-year-old male patient with a history of hypertension and hyperlipidemia presents to the emergency department with symptoms of acute shortness of breath, chest pain, and a recent increase in blood pressure readings. His electrocardiogram reveals signs of ST-segment elevation in multiple leads.",
+        "label": 2
+    },
+    {
+        "text": "A 45-year-old male patient is scheduled for a left inguinal hernia repair with a planned hospital stay of 24 hours. Preoperative evaluation revealed no significant comorbidities, and the patient is receiving usual care preoperatively.",
+        "label": 1
+    }
+]
