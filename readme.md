@@ -43,7 +43,7 @@ python main.py --semantic
 python main.py --bert
 ```
 
-* Before using ModernBert, download the model weights from [this link](https://drive.google.com/file/d/1EFjGK_Y7ByFaq-zvWfeRUnryQJirSQ-W/view?usp=drive_link) and place them in the `Modernbert_model` folder.
+* Before using ModernBert, download the model weights from [this link](#) and place them in the `Modeernbert_model` folder.
 * Both methods launch an interactive Gradio application where you can input text and receive classification results.
 
 ### 2. Visualize Sentence Vectors
@@ -57,6 +57,10 @@ python main.py --tsne -i
 * To visualize a different dataset, add the argument `--dataset <path_to_dataset>`
 * **`-i` or `--interactive`**: Optional flag to enable interactive plotting.
 
+Example t-SNE plot:
+
+![t-SNE Plot](Visual_plots/TSNE_Visual.png)
+
 #### UMAP Visualization
 
 ```bash
@@ -65,6 +69,10 @@ python main.py --umap -i
 
 * To visualize a different dataset, add the argument `--dataset <path_to_dataset>`
 * **`-i` or `--interactive`**: Optional flag to enable interactive plotting.
+
+Example UMAP plot:
+
+![UMAP Plot](Visual_plots/UMAP_Visual.png)
 
 ### 3. Example Usage
 
@@ -97,12 +105,12 @@ python main.py --tsne --dataset Classification_v1.json -i
 ├── Datasets/                # Contains classification datasets
 │   ├── Classification_v1.json
 │   └── Classification_bert.json
-├── Modernbert_model/       # Contains ModernBert model and weights (download from the link before use)
-└── Visual_plots/            # Contains t-SNE and UMAP plots
+├── Modeernbert_model/       # Contains ModernBert model and weights (download from the link before use)
+└── Visual_plots/            # Contains t-SNE and UMAP plots (tsne_plot.png, umap_plot.png)
 ```
 
 ## Notes
 
 * Make sure to put your custom datasets inside the `Datasets` folder to work on it.
 * Currently it supports only `huggingface embedding models`. It can further be extended to OpenAI embedding models or any other third-party provider.
-* For ModernBert, download the model weights from [this link](#) and put them in the `Modeernbert_model` folder before running the classification.
+* For ModernBert, download the model weights from [this link](https://drive.google.com/file/d/1EFjGK_Y7ByFaq-zvWfeRUnryQJirSQ-W/view?usp=drive_link) and put them in the `Modeernbert_model` folder before running the classification.
